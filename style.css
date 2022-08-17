@@ -1,3 +1,11 @@
+nav{
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: normal;
+    color: crimson;
+    line-height: 1.6em;
+    padding: 15px;
+}
 h1{
     font-size: 26px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
